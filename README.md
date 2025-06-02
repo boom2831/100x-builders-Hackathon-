@@ -48,7 +48,7 @@ Click "Download PDF" to save your resume
 Repeat the process to create multiple versions
 
 Project Structure
-resume-builder/
+<pre lang="markdown">resume-builder/
 ├── public/                  # Static files
 ├── src/
 │   ├── components/          # React components
@@ -62,7 +62,7 @@ resume-builder/
 │   ├── index.js             # Application entry point
 │   └── styles.css           # Global styles
 ├── package.json             # Project dependencies
-└── README.md                # This file
+└── README.md                # This file ``` </pre>
 Available Scripts
 In the project directory, you can run:
 
