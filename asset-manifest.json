@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/boom2831/100x-builders-Hackathon-.git/static/css/main.9bade0cc.css",
+    "main.js": "/boom2831/100x-builders-Hackathon-.git/static/js/main.785c8316.js",
+    "static/js/213.538c3c5a.chunk.js": "/boom2831/100x-builders-Hackathon-.git/static/js/213.538c3c5a.chunk.js",
+    "static/js/455.228358e1.chunk.js": "/boom2831/100x-builders-Hackathon-.git/static/js/455.228358e1.chunk.js",
+    "static/js/453.697c04f2.chunk.js": "/boom2831/100x-builders-Hackathon-.git/static/js/453.697c04f2.chunk.js",
+    "index.html": "/boom2831/100x-builders-Hackathon-.git/index.html",
+    "main.9bade0cc.css.map": "/boom2831/100x-builders-Hackathon-.git/static/css/main.9bade0cc.css.map",
+    "main.785c8316.js.map": "/boom2831/100x-builders-Hackathon-.git/static/js/main.785c8316.js.map",
+    "213.538c3c5a.chunk.js.map": "/boom2831/100x-builders-Hackathon-.git/static/js/213.538c3c5a.chunk.js.map",
+    "455.228358e1.chunk.js.map": "/boom2831/100x-builders-Hackathon-.git/static/js/455.228358e1.chunk.js.map",
+    "453.697c04f2.chunk.js.map": "/boom2831/100x-builders-Hackathon-.git/static/js/453.697c04f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bade0cc.css",
+    "static/js/main.785c8316.js"
+  ]
+}
